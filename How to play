@@ -1,0 +1,4 @@
+Basically in the game we have predefined positions will should be entered to make your move.
+Postions are - [0,0   0,1   0,2]
+               [1,0   1,1   1,2]
+               [2,0   2,1   2,2]
